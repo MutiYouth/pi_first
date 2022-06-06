@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_service_first_for_pi/java_service_first_for_pi.iml" filepath="$PROJECT_DIR$/java_service_first_for_pi/java_service_first_for_pi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python/pi_test/pi_test.iml" filepath="$PROJECT_DIR$/python/pi_test/pi_test.iml" />
     </modules>
   </component>
 </project>
